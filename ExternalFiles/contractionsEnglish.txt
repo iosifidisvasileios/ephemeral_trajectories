@@ -1,0 +1,174 @@
+ain’t::am not
+amn’t::am not
+aren't::are not
+can't::can not
+cap'n::captain
+cap'm::captain
+could've::could have
+couldn't::could not
+couldn't've::could not have
+didn't::did not
+doesn't::does not
+don't::do not
+e'er::ever
+gonna::going to
+gotta::got to
+hadn't::had not
+hadn't've::he had not have
+hasn't::has not
+hasn't've::has not have
+haven't::have not
+he'd::he would
+he'd'n't::he had not
+he'd'n't've::he had not have
+he'd've::he would have
+he'll::he will
+he's::he is
+he'sn't::he has not
+how'd::how would
+how'll::how will
+how's::how is
+I'd::I had
+i'd::I had
+I'd'n't::I would not
+i'd'n't::I would not
+I'd'n't've::I would not have
+i'd'n't've::I would not have
+I'd've::I would have
+i'd've::I would have
+I'll::I will
+i'll::I will
+I'm::I am
+i'm::I am
+I've::I have
+i'have::I have
+I'ven't::I have not
+i'ven't::I have not
+isn't::is not
+it'd::it would
+it'd'n't::it would not
+it'd'n't've::it would not have
+it'd've::it would have
+it'll::it will
+it's::it is
+it'sn't::it is not
+let's::let us
+ma'am::madam
+mightn't::might not
+mightn't've::might not have
+might've::might have
+mustn't::must not
+mustn't've::must not have
+must've::must have
+needn't::need not
+ne'er::never
+not've::not have
+o'clock::of the clock
+o'er::over
+ol'::old
+oughtn't::ought not
+oughtn't've::ought not to have
+shan't::shall not
+she'd::she would
+she'd'n't::she would not
+she'd'n't've::she would not have
+she'd've::she would have
+she'll::she will
+she's::she is
+she'sn't::she is not
+should've::should have
+shouldn't::should not
+shouldn't've::should not have
+somebody'd::somebody would
+somebody'd'n't::somebody would not
+somebody'd've::somebody would have
+somebody'dn't've::somebody would not have
+somebody'll::somebody will
+somebody's::somebody is
+someone'd::someone would
+someone'd'n't::someone would not
+someone'd'n't've::someone would not have
+someone'd've::someone would have
+someone'll::someone will
+someone's::someone is
+something'd::something would
+something'd'n't::something would not
+something'd'n't've::something would not have
+something'd've::something would have
+something'll::something will
+something's::something is
+s'pose::suppose
+'sup::what is up
+that'll::that will
+that's::that is
+that'd::that had
+there'd::there would
+there'd'n't::there would not
+there'd'n't've::there would not have
+there'd've::there would have
+there're::there are
+there's::there is
+they'd::they would
+they'dn't::they would not
+they'dn't've::they would not have
+they'd've::they would have
+they'd'ven't::they would have not
+they'll::they will
+they'lln't've::they will not have
+they'll'ven't::they will have not
+they're::they are
+they've::they have
+they'ven't::they have not
+'tis::it is
+'twas::it was
+wanna::want to
+wasn't::was not
+we'd::we would
+we'd've::we would have
+we'd'n't::we would not
+we'dn't've::we would not have
+we'll::we will
+we'lln't've::we will not have
+we're::we are
+we've::we have
+weren't::were not
+what'd::what did
+what'll::what will
+what're::what are
+what've::what have
+what's::what is
+when's::when is
+where'd::where did
+where's::where is
+where've::where have
+who'd::who would
+who'd've::who would have
+who'll::who will
+who're::who are
+who's::who is
+who've::who have
+why'd::why did
+why'll::why will
+why're::why are
+why's::why is
+won't::will not
+won't've::will not have
+would've::would have
+wouldn't::would not
+wouldn't've::would not have
+y'all::you all 
+ya'll::you all
+y'all'd've::you all would have
+y'all'dn't've::you all would not have
+y'all'll::you all will
+y'all'on't::you all will not
+y'all'll've::you all will have
+y'all're::you all are
+y'all'll'ven't::you all will have not
+you'd::you would
+you'd've::you would have
+you'll::you will
+you're::you are
+you'ren't::you are not
+you've::you have
+you'ven't::you have not
