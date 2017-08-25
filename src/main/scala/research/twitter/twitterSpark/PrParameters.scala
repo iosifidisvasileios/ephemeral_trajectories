@@ -1,6 +1,5 @@
 package research.twitter.twitterSpark
 
-
 import scala.io.Codec
 import java.nio.charset.CodingErrorAction
 
@@ -48,6 +47,10 @@ object PrParameters {
   var indVerb = """/externalFiles/index.verb"""
   var nounFile = """/externalFiles/noun.exc"""
   var verbFile = """/externalFiles/verb.exc"""
+  
+  var srcFelEntities = """hdfs://nameservice1/user/campero/EntitiesFel/Entities_list_from_corpus/*"""
+  var entitiesFel  =  """hdfs://nameservice1/user/campero/EntitiesFel/FelEntitiesComb.csv"""
+  var trajecFolder = """hdfs://nameservice1/user/campero/Trajectories/"""
   
   def setProjectDataset(projectDset:String) = 
   {
