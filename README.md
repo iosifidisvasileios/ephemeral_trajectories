@@ -1,4 +1,4 @@
-#Tracking Ephemeral Sentiment Entities in SocialStreams
+# Tracking Ephemeral Sentiment Entities in SocialStreams
 
 With the rise of Web 2.0,  more and more words that are not sentimental are often
 associated with positive/negative feelings. In the following Apache Spark project we present an approach 
